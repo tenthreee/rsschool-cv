@@ -14,6 +14,17 @@ I'm enthusiastic, attentive to details and quality-oriented Junior Frontend Deve
 
 ### Skills
 
+* Git
+* HTML5, CSS3
+* JavaScript (ES6+)
+* React.js + Hooks
+* Styled-Components
+* SCSS/SASS/LESS
+* BEM methodology
+* Mobile First
+* Accessibility
+* Gulp (build, automation)
+
 ### Portfolio
 
 ### Working Experience
