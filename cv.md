@@ -40,4 +40,12 @@ I'm enthusiastic, attentive to details and quality-oriented Junior Frontend Deve
 
 ### Education
 
+* JavaScript. Professional Development of Web Interfaces | 2019 | (html academy)[https://htmlacademy.ru/]
+* HTML&CSS. Adaptive Website Coding and Automation | 2018 | (html academy)[https://htmlacademy.ru/]
+* HTML&CSS. Professional Website Coding | 2017 | | (html academy)[https://htmlacademy.ru/]
+* South Ural State University (SUSU) | Bachelor's of Design | Sep 2005 to Jun 2010
+
 ### Languages
+
+* Russian | Native
+* English | Upper-Intermediate
