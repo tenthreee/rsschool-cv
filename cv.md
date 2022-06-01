@@ -1,7 +1,6 @@
 # CV
 
-## Lena Morozova
-### Frontend Developer
+## Lena Morozova, Frontend Developer
 
 * E-mail: tenthreee@gmail.com
 * Telegram: @tenthreee
