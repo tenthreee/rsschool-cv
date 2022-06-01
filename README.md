@@ -1,1 +1,1 @@
-# rsschool-cv
+https://tenthreee.github.io/rsschool-cv/
