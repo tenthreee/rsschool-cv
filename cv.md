@@ -10,6 +10,8 @@
 
 ### Summary
 
+I'm enthusiastic, attentive to details and quality-oriented Junior Frontend Developer. I have 5 years experience in supporting and creating educational products on frontend development, so I have a good knowledge of web technologies and I know how to write a good code.
+
 ### Skills
 
 ### Portfolio
