@@ -34,6 +34,10 @@ I'm enthusiastic, attentive to details and quality-oriented Junior Frontend Deve
 
 ### Working Experience
 
+* Junior Frontend Developer | Nov 2020 to Apr 2022 | (html academy)[https://htmlacademy.ru/]
+* Mentor for HTML&CSS courses | Jan 2018 to Dec 2021 | (html academy)[https://htmlacademy.ru/]
+* Support Specialist — Senior Support Specialist — Support Team Lead | Oct 2017 to Nov 2020 | (html academy)[https://htmlacademy.ru/]
+
 ### Education
 
 ### Languages
