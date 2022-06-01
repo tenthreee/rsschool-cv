@@ -34,18 +34,18 @@ I'm enthusiastic, attentive to details and quality-oriented Junior Frontend Deve
 
 ### Working Experience
 
-* Junior Frontend Developer | Nov 2020 to Apr 2022 | [html academy](https://htmlacademy.ru/)
-* Mentor for HTML&CSS courses | Jan 2018 to Dec 2021 | [html academy](https://htmlacademy.ru/)
-* Support Specialist — Senior Support Specialist — Support Team Lead | Oct 2017 to Nov 2020 | [html academy](https://htmlacademy.ru/)
+* **Junior Frontend Developer**, *Nov 2020 to Apr 2022*, [html academy](https://htmlacademy.ru/)
+* **Mentor for HTML&CSS courses**, *Jan 2018 to Dec 2021*, [html academy](https://htmlacademy.ru/)
+* **Support Team Lead**, *Oct 2017 to Nov 2020*, [html academy](https://htmlacademy.ru/)
 
 ### Education
 
-* JavaScript. Professional Development of Web Interfaces | 2019 | [html academy](https://htmlacademy.ru/)
-* HTML&CSS. Adaptive Website Coding and Automation | 2018 | [html academy](https://htmlacademy.ru/)
-* HTML&CSS. Professional Website Coding | 2017 | | [html academy](https://htmlacademy.ru/)
-* South Ural State University (SUSU) | Bachelor's of Design | Sep 2005 to Jun 2010
+* **JavaScript. Professional Development of Web Interfaces**, *2019*, [html academy](https://htmlacademy.ru/)
+* **HTML&CSS. Adaptive Website Coding and Automation**, *2018*, [html academy](https://htmlacademy.ru/)
+* **HTML&CSS. Professional Website Coding**, *2017*, [html academy](https://htmlacademy.ru/)
+* **South Ural State University (SUSU)**, Bachelor's of Design, *Sep 2005 to Jun 2010*
 
 ### Languages
 
-* Russian | Native
-* English | Upper-Intermediate
+* Russian — Native
+* English — Upper-Intermediate
